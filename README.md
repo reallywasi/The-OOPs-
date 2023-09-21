@@ -1,2 +1,2 @@
 # THE OOPs..
-Contains all shit regarding OOPs. 
+Contains all the shit regarding OOPs. 
